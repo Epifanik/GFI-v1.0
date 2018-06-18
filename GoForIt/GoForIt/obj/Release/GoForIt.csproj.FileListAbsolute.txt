@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\bin\Release\DrawSharp.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\bin\Release\DrawSharp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\bin\Release\DrawSharp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\GoForIt.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.MainForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Level1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Level2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Level3.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Level4.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Level5.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\GoForIt.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoForIt\GoForIt\obj\Release\DrawSharp.pdb
